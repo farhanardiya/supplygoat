@@ -1,0 +1,14 @@
+# Application Name and Version - optional. If not used the Component will not be associated to an Application
+Application = "GLOBAL.Dummy App.supplygoat"
+Application_Version = "1.0"
+
+# Define Component Name, Variant and Version - required
+Name = "GLOBAL.Dummy App.supplygoat.supplygoat"
+Variant = "main"
+Version = "1.0"
+
+# Key/Values to associate to the Component Version
+[Attributes]
+ DiscordChannel = "@farhan"
+ ServiceOwner= "Farhan"
+ ServiceOwnerEmail = "farhan@mail.com"
